@@ -1,0 +1,1 @@
+# shop-monitoring-software
